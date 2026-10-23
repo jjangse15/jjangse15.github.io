@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: ``,
     // Content of the About Me section
-    about: ``,
+    about: `포트폴리오 업데이트 예정입니다.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -34,27 +34,15 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: '',
-        description: '',
-        link: '',
+        name: '활동 사항',
+        description: '업데이트 예정',
       },
-
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: '',
-        description:
-          '',
-      },
-      {
-        name: '',
-        description: '',
-      },
-      {
-        name: '',
-        description:
-          '',
+        name: '보유 기술',
+        description: '업데이트 예정',
       },
     ],
   },
