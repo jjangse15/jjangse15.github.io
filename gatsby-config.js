@@ -36,6 +36,7 @@ module.exports = {
       {
         name: '활동 사항',
         description: '업데이트 예정',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
