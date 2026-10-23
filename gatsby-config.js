@@ -19,16 +19,16 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: '사기 전',
+        name: '사기 전에',
         description:
-          '5인 팀 프로젝트의 중고거래 채팅·판매글·스크린샷·URL을 분석해서 거래의 위험 신호를 근거와 함께 알려주는 웹 서비스의 백엔드로 참여하여 Python을 활용한 URL 탐지 로직 및 위험 평가 엔진 구현(현재 진행 중)',
-        link: 'https://github.com/jjangse15',
+          '5인 팀 프로젝트의 중고거래 채팅·판매글·스크린샷·URL을 분석해서 거래의 위험 신호를 근거와 함께 알려주는 웹 서비스의 백엔드로 참여(현재 진행 중)',
+        link: 'https://github.com/OSSTEAM5/sagijeone.git',
       },
       {
         name: '3D 어드벤처 게임',
         description:
           '2인 팀 프로젝트로 Unity를 이용한 3D 게임 개발(현재 진행 중)',
-        link: 'https://github.com/jjangse15',
+        link: '',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
